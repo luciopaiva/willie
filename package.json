@@ -1,6 +1,6 @@
 {
   "name": "willie",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "A companion to Winston",
   "main": "lib/willie.js",
   "scripts": {
